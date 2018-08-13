@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
 }
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/carousel.jpg);
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -44,7 +44,7 @@ input[type="submit"],input[type="reset"],a,.w3_agileits_services1_grid1{
 	position: relative;
 }
 .banner1{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/carousel.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
